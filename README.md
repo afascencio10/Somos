@@ -1,2 +1,1 @@
-# Somos
-Somos producciones
+# somos
