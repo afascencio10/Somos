@@ -237,7 +237,7 @@ EFECTO SPLIT EN EL TEXTO "MENU" (Dentro del div glitch)
   }
 
   .phone, .adress, .dEmail {
-    justify-self: center;
+    justify-self: end;
   }
 
   .iconMarcador {
@@ -255,7 +255,6 @@ EFECTO SPLIT EN EL TEXTO "MENU" (Dentro del div glitch)
     .iconMail {
     border-left: 1px solid black;
     height: 4vw;    
-    margin-left: 1vw;   
   }
 
   .inputCorto {
@@ -469,8 +468,7 @@ EFECTO SPLIT EN EL TEXTO "MENU" (Dentro del div glitch)
     .iconMail {
     
     height: 6vw;    
-    border-left: 1px solid black; 
-    margin-left: 1vw;
+    border-left: 1px solid black;     
     margin-top: 2vw;  
   }
 
