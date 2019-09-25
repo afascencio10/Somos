@@ -9372,6 +9372,7 @@ screen and (min-device-width:1024px) and (max-device-width:1024px) and (min-devi
       top: 30px;
       right: 20px;
       z-index: 5;
+      cursor: pointer;
     }
 
     .content-wrap {
@@ -9845,6 +9846,7 @@ screen and (min-device-width:1024px) and (max-device-width:1024px) and (min-devi
       top: 28px;
       right: 47px;
       z-index: 5;
+      cursor: pointer;
     }
 
 }
@@ -9913,6 +9915,7 @@ screen and (min-device-width:1024px) and (max-device-width:1024px) and (min-devi
     .menubtnimg {
         width: 12%;
         z-index: 10;
+        cursor: pointer;
     }
 
     .inner .label a {
