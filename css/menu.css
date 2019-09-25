@@ -1,7 +1,7 @@
 /*dev css tet*/
 
 .menu__content-wrap > * {
-    border: 1px solid red;
+    border: none;
 }
 
 
