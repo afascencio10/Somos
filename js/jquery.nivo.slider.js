@@ -127,7 +127,7 @@
                 if(vars.running) { return false; }
                 clearInterval(timer);
                 timer = '';
-                vars.currentSlide -= 4;
+                vars.currentSlide -= 2;
                 nivoRun(slider, kids, settings, 'prev');
             });
             
