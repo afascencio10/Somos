@@ -71,8 +71,6 @@ if(winvar=="false"){
 		var menuBlock = document.querySelector('.menu-block');
 		menuBlock.style.bottom = "";
 
-		var lines = document.querySelector('.menu-btn');
-		lines.style.opacity = "0";
 
 		var menu = document.querySelector('.menu');
 		menu.classList.add('hidden');		
@@ -101,8 +99,6 @@ if(winvar=="false"){
 
 	function showMenu(){
 
-		var lines = document.querySelector('.menu-btn');
-		lines.style.opacity = "0";
 
 		var menuBlock = document.querySelector('.menu-block');
 		menuBlock.style.bottom = "0px";
